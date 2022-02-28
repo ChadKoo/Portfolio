@@ -1,6 +1,28 @@
 h1  {
+  color: blue;
   margin: 0;
   font-size: 4em;
   padding: 50PX;
 } 
 
+h2  {
+  color: rgb(46, 121, 235);
+}
+
+ 
+footer  {
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(46, 121, 235);
+}
+
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 1650px;
+  height: 2500px;
+}
