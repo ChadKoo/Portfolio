@@ -26,3 +26,7 @@ footer  {
   width: 1650px;
   height: 2500px;
 }
+
+img {
+  float: right;
+}
